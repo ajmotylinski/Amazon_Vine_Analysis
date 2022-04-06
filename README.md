@@ -17,5 +17,11 @@ Based on the reviews in the Musical Instruments the Vine and unpaid reviews appe
 - Percentage of 5 Star Vine Reviews: 56.6%
 - Percentage of 5 Star Unpaid Reviews: 56.7%
 
+### Paid Data
+![Vine Data](../main/resources/paid.png)
+
+### Unpaid Data
+![Unpaid Data](../main/resources/unpaid.png)
+
 # Analysis
 Based on the Musical Instrument category, there does not appear to be any significant bias when at just 5 star reviews. The percentage of 5 star reviews for Vine participants was 56.6% while those who did not participate is 56.7%.  This analysis just looked at 5 star reviews, but it would be good to look at the spread of all the reviews to get a full picture of the reviews. 
